@@ -1,0 +1,24 @@
+{
+  "name": "myfirstserver",
+  "version": "1.0.0",
+  "description": "A server created using express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endowmissy/myfirstserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endowmissy/myfirstserver/issues"
+  },
+  "homepage": "https://github.com/Endowmissy/myfirstserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
